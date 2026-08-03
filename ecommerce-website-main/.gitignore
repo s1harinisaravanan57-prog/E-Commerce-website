@@ -1,0 +1,11 @@
+# Generated dependency and build output
+frontend/node_modules/
+frontend/build/
+backend/target/
+
+# Local tooling and environment files
+.idea/
+.run/
+*.log
+.env
+.env.local
